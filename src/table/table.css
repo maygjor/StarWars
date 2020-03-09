@@ -1,0 +1,26 @@
+.questions{
+ margin: 80px;
+   color:white;
+    display:flex;
+    flex-direction: column;
+    flex:1;
+  
+}
+.Q{
+    font: bold 34px Roboto;
+    flex:1;
+    flex-direction: row;
+    justify-content:'center';
+    align-content: 'center';
+    text-align: 'center';
+
+}
+.A{
+    font: bold 34px Roboto;
+    flex:1;
+    flex-direction: row;
+    justify-content:'center';
+    align-content: 'center';
+    text-align: 'center';
+    color:#f8e643;
+}
